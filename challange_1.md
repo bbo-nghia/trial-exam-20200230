@@ -53,10 +53,20 @@ class Solution {
     }
 }
 ```
+
 <strong>Swift</strong>
 ```
 class Solution {
     func connectSticks(_ sticks: [Int]) -> Int {
+        
+    }
+}
+```
+
+<strong>Java</strong>
+```
+class Solution {
+    public int connectSticks(int[] sticks) {
         
     }
 }
